@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wExyEF2rfiw=",
+  "success": true,
+  "projectFilePath": "C:\\git_rk2010\\planserver-pro\\WeishauptWaermepumpenStatus\\WPStatusUploader\\WPStatusUploader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.7\\microsoft.extensions.configuration.9.0.7.nupkg.sha512",
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\rkuerbitz.HKFA\\.nuget\\packages\\system.device.gpio\\4.0.1\\system.device.gpio.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
