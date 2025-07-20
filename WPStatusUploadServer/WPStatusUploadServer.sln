@@ -5,27 +5,7 @@ VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPStatusUploadServer", "WPStatusUploadServer.csproj", "{D25877C1-76CB-49AF-AC9A-588A792F3739}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPStatusSQLServer", "WPStatusSQLServer", "{ABC9B7C6-FF98-4556-A783-01FDF93B56C9}"
-	ProjectSection(SolutionItems) = preProject
-		setupSQLServer.sql = setupSQLServer.sql
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPStatusUploader", "..\WPStatusUploader\WPStatusUploader.csproj", "{F2A6B168-B555-4451-A0C7-DFDF329F3049}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPStatusStaticWebsite", "WPStatusStaticWebsite", "{BDCEE471-122E-45A1-B56C-A45EFD30BC6C}"
-	ProjectSection(SolutionItems) = preProject
-		N:\HalbInsulaner-Wärmepumpe\site\index.html = N:\HalbInsulaner-Wärmepumpe\site\index.html
-		N:\HalbInsulaner-Wärmepumpe\site\starter-template.css = N:\HalbInsulaner-Wärmepumpe\site\starter-template.css
-		N:\HalbInsulaner-Wärmepumpe\site\style.css = N:\HalbInsulaner-Wärmepumpe\site\style.css
-		N:\HalbInsulaner-Wärmepumpe\site\wpstatus.json = N:\HalbInsulaner-Wärmepumpe\site\wpstatus.json
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{731D5841-C232-4DF1-81B0-A2136BFE9336}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{CC92009B-A65C-43DC-ACBA-E8C372B0D907}"
-	ProjectSection(SolutionItems) = preProject
-		N:\HalbInsulaner-Wärmepumpe\site\assets\js\popper.min.js = N:\HalbInsulaner-Wärmepumpe\site\assets\js\popper.min.js
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,9 +24,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{731D5841-C232-4DF1-81B0-A2136BFE9336} = {BDCEE471-122E-45A1-B56C-A45EFD30BC6C}
-		{CC92009B-A65C-43DC-ACBA-E8C372B0D907} = {731D5841-C232-4DF1-81B0-A2136BFE9336}
 	EndGlobalSection
 EndGlobal
