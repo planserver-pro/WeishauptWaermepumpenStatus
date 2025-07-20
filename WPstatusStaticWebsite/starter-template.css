@@ -1,0 +1,18 @@
+body {
+    padding-top: 5rem;
+    font-family: Roboto;
+}
+
+.wpstatus {
+    color: green;
+}
+
+.smalltext {
+    font-size: 0.5em;
+}
+
+.mailsent {
+    font-size: 0.8em;
+    color: dimgray;
+    font-style: italic ;
+}
