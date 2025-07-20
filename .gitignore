@@ -1,0 +1,10 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/WPStatusUploader/bin/Debug/net8.0
+/WPStatusUploader/obj/Debug/net8.0
+/WPStatusUploadServer/.vs/WPStatusUploadServer
+/WPStatusUploadServer/bin/Debug/net8.0
+/WPStatusUploadServer/obj/Debug/net8.0
