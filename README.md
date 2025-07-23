@@ -37,6 +37,11 @@ Eine statische Website (https://waermepumpe.xyz.de), die die Daten aus der JSON-
 
 # 4. WPStatusHKVSet:
 
-Pro Heizkreisverteiler ein Minicomputer ESP01 mit Relais, das alle 8 Stunden den Inhalt der JSON-Datei aus der statischen Website lädt und dementsprechend durch Schaltung des Relais den CO-Modus des Heizkreisverteilers ein- bzw. ausschaltet.
+Pro Heizkreisverteiler ein Minicomputer ESP01 mit Relais, das alle 8 Stunden den Inhalt der JSON-Datei aus der statischen Website lädt und dementsprechend durch Schaltung des Relais den CO-Modus des Heizkreisverteilers ein- bzw. ausschaltet. 
+
+Benötigte Bauteile: 
+- ESP01 mit Relais - dafür gibt es verschiedene Anbieter wie AZDelivery, Amazon usw.
+- Programmieradapter für ESP01
+- 5V-Steckernetzteil oder (je nach Heizkreissteuerung 24V zu 5V-Spannungswandler - getestet mit Möllenhoff Alpha 2)
   
 Statt Komponente 4 kann "Low-Tech" auch einfach ein Ein-/Aus-Schalter an den CO-Eingang des Heizkreisverteilers angeschlossen werden und die Nutzer schalten nach Eingang der Benachrichtigungsmails manuell um.
