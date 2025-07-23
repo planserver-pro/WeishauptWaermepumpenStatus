@@ -45,7 +45,7 @@ Benötigte Bauteile:
 - 5V-Steckernetzteil
 
 Bei einer Heizkreissteuerung Möllenhoff Alpha 2 ist ggf. keine weitere Steckdose erforderlich, sondern der Minicomputer kann direkt an die Steuerung angeschlossen werden:
+![HKV](MöllenhoffAlpha2_HKVAnschluss.jpg)
 
-24V zu 5V-Spannungswandler
 
 Statt Komponente 4 kann "Low-Tech" auch einfach ein Ein-/Aus-Schalter an den CO-Eingang des Heizkreisverteilers angeschlossen werden und die Nutzer schalten nach Eingang der Benachrichtigungsmails manuell um.
