@@ -42,6 +42,10 @@ Pro Heizkreisverteiler ein Minicomputer ESP01 mit Relais, das alle 8 Stunden den
 Benötigte Bauteile: 
 - ESP01 mit Relais - dafür gibt es verschiedene Anbieter wie AZDelivery, Amazon usw.
 - Programmieradapter für ESP01
-- 5V-Steckernetzteil oder (je nach Heizkreissteuerung 24V zu 5V-Spannungswandler - getestet mit Möllenhoff Alpha 2)
-  
+- 5V-Steckernetzteil
+
+Bei einer Heizkreissteuerung Möllenhoff Alpha 2 ist ggf. keine weitere Steckdose erforderlich, sondern der Minicomputer kann direkt an die Steuerung angeschlossen werden:
+
+24V zu 5V-Spannungswandler
+
 Statt Komponente 4 kann "Low-Tech" auch einfach ein Ein-/Aus-Schalter an den CO-Eingang des Heizkreisverteilers angeschlossen werden und die Nutzer schalten nach Eingang der Benachrichtigungsmails manuell um.
