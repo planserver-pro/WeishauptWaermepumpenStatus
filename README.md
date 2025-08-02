@@ -44,7 +44,7 @@ Benötigte Bauteile:
 - Programmieradapter für ESP01
 - 5V-Steckernetzteil
 
-Bei einer Heizkreissteuerung Möllenhoff Alpha 2 ist ggf. keine weitere Steckdose erforderlich, sondern der Minicomputer kann direkt an die Steuerung angeschlossen werden:
+Bei einer Heizkreissteuerung Möllenhoff Alpha 2 ist  weitere Steckdose erforderlich, sondern an den 24V-Ausgang der Steuerung kann ein Spannungswandler 24V zu 5V angeschlossen werden und daran der Minicomputer:
 ![HKV](MöllenhoffAlpha2_HKVAnschluss.jpg)
 
 
